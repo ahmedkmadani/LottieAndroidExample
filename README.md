@@ -5,7 +5,7 @@ Lottie is mobile library for Android parse Adobe after effect animation exported
 the mobile 
 
 
-Implemnation : 
+###### Implemnation : 
 
           dependencies {
             implementation 'com.airbnb.android:lottie:$lottieVersion'
@@ -13,7 +13,7 @@ Implemnation :
           
          
          
-  Layout : 
+###### Layout : 
   
           <com.airbnb.lottie.LottieAnimationView
                 android:id="@+id/lottie_animation_view"
@@ -25,7 +25,7 @@ Implemnation :
   
   
   
-  Activity : 
+  ###### Activity : 
   
             String mAnimFile = "world_locations.json";
 
